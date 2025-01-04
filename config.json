@@ -1,0 +1,17 @@
+{
+	"LocalIPv6":	false,
+	"LocalAddress":	"0.0.0.0",
+	"LocalPort":	25565,
+	"RemoteIPv6":	false,
+	"Address":	"whalemc.com",
+	"RemotePort":	25565,
+	"MaxPlayer":	2025,
+	"MotdPath":	"./motd.json",
+	"DefaultEnableWhitelist":	false,
+	"WhiteBlcakListPath":	"./WhiteBlackList.json",
+	"AllowInput":	true,
+	"ShowOnlinePlayerNumber":	true,
+	"LogDir":	"./logs",
+	"ShowLogLevel":	0,
+	"SaveLogLevel":	0
+}
